@@ -1,0 +1,1 @@
+pyinstaller --onefile --add-data "gui.py;." --add-data "Lab_Spline_Module.cp312-win_amd64.pyd;." --name "Num_methods_Lab4_Spline" WindowApp.py
